@@ -1,0 +1,40 @@
+{
+  "hogs": [
+    {
+      "id": 1,
+      "name": "Babe",
+      "specialty": "Being incredibly cute",
+      "greased": false,
+      "weight": 2,
+      "highest_medal_achieved": "bronze",
+      "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/babe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Porkchop",
+      "specialty": "Making friends",
+      "greased": true,
+      "weight": 1.6,
+      "highest_medal_achieved": "silver",
+      "image": "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/porkchop.jpg"
+    },
+    {
+      "name": "Test",
+      "specialty": "Something",
+      "greased": false,
+      "weight": 2,
+      "highest_medal_achieved": "Bronze",
+      "image": "https://www.aheadofthyme.com/wp-content/uploads/2019/10/healthy-miso-ramen-with-chicken-6-1-rotated.jpg",
+      "id": 3
+    },
+    {
+      "name": "Delicious",
+      "specialty": "Something",
+      "greased": false,
+      "weight": 2,
+      "highest_medal_achieved": "Bronze",
+      "image": "https://thebusybaker.ca/wp-content/uploads/2020/08/easy-homemade-ramen-fb-ig-8-scaled.jpg",
+      "id": 4
+    }
+  ]
+}
