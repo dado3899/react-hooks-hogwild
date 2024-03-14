@@ -140,6 +140,10 @@ ul {
   clear: both;
 }
 
+.card-image{
+  height: 500px;
+  width: 500px;
+}
 
 @keyframes App-logo-spin {
   from {
